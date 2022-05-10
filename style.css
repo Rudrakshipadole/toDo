@@ -65,10 +65,10 @@ margin: 10px 0;
 }
 .msg{height: 80%;width: 80%;
 background-color: #fff;}
-#remove{
+#btn1{
      background-color: red;
 }
-#done{
+#btn2{
     background-color: rgb(8, 17, 146);
 }
 footer{
